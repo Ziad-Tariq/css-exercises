@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+#ele1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#ele2 {
+    background-color: lightgreen;
+    font-style: bold;
+    font-size: 24px;
+}
+
+.odd2 {
+    font-size: 24px;
+}
